@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Chandra Mohan",
+    "sex": "Male",
+    "age": 37,
+    "occupation": "Software Engineer",
+    "id": 1
+  },
+  {
+    "name": "Jyoti Kumari",
+    "sex": "Female",
+    "age": 27,
+    "occupation": "Software Engineer",
+    "id": 2
+  },
+  {
+    "name": "Jiya Kumar",
+    "sex": "Female",
+    "age": 8,
+    "occupation": "Student",
+    "id": 3
+  },
+  {
+    "name": "Aditya Kumar",
+    "sex": "Male",
+    "age": 22,
+    "occupation": "Student",
+    "id": 4
+  },
+  {
+    "name": "Shreya Kumar",
+    "sex": "Female",
+    "age": 4,
+    "occupation": "Happy Kid",
+    "id": 5
+  },
+  {
+    "name": "Diya Mandal",
+    "sex": "Female",
+    "age": 15,
+    "occupation": "Student",
+    "id": 6
+  },
+  {
+    "name": "Hariya",
+    "age": 24,
+    "sex": "Male",
+    "occupation": "Construction worker",
+    "id": 7
+  },
+  {
+    "name": "Bhola",
+    "age": 12,
+    "sex": "Male",
+    "occupation": "student",
+    "id": 8
+  },
+  {
+    "name": "dasdas",
+    "age": 23,
+    "sex": "Male",
+    "occupation": "asdadasd",
+    "id": 9
+  },
+  {
+    "name": "dsdsdsfs",
+    "age": 32,
+    "sex": "Male",
+    "occupation": "eed",
+    "id": 10
+  },
+  {
+    "name": "neha",
+    "age": 31,
+    "sex": "Female",
+    "occupation": "Homemaker",
+    "id": 11
+  },
+  {
+    "name": "neha",
+    "age": 31,
+    "sex": "Female",
+    "occupation": "Homemaker",
+    "id": 12
+  },
+  {
+    "name": "neha",
+    "age": 31,
+    "sex": "Female",
+    "occupation": "Homemaker",
+    "id": 13
+  }
+]
